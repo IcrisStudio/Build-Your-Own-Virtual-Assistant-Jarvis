@@ -89,3 +89,8 @@ def retriveData():
 #     sendQuery(query)
 #     isBubbleLoaderVisible()
 #     retriveData()
+
+
+# /html/body/div/div/div/div[2]/div[1]/div/div/div[2]/div/div[2]/div/div/div/div/div/p
+#/html/body/div/div/div/div[2]/div[1]/div/div/div[4]/div/div[2]/div/div/div/div/div/p
+#/html/body/div/div/div/div[2]/div[1]/div/div/div[6]/div/div[2]/div/div/div/div/div/p
